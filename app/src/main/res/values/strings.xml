@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_samplelogin">samplelogin</string>
+    <string name="title_activity_samplesign">samplesign</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="title_activity_loginn">Loginn</string>
+    <string name="title_activity_login_new">LoginNew</string>
+    <string name="title_activity_option_signup">option_signup</string>
+    <string name="title_activity_user_profile">user_profile</string>
+    <string name="title_activity_signin_hospital">signin_hospital</string>
+    <string name="title_activity_hos_profile">hos_profile</string>
+    <string name="title_activity_try_main">try_main</string>
+    <string name="AS">BLOOD BANK</string>
+    <string name="imgbtn">imgbtn</string>
+    <string name="imgbtn2">imgbtn2</string>
+    <string name="choose">CHOOSE TO SIGN UP AS</string>
+    <string name="signup">SIGN UP USER</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="bg">Blood Group</string>
+    <string name="age">Age</string>
+    <string name="wei">Weight</string>
+    <string name="pn">Phone no</string>
+    <string name="title_activity_ask_for_blood_user">ask_for_blood_user</string>
+    <string name="title_activity_ask_for_blood_hos">ask_for_blood_hos</string>
+    <string name="title_activity_blood_bank_status">blood_bank_status</string>
+    <string name="title_activity_medical_history">medical_history</string>
+    <string name="hos">cance</string>
+    <string name="title_activity_user_blood_requests">user_blood_requests</string>
+    <string name="title_activity_hos_organize_events">hos_organize_events</string>
+
+</resources>
